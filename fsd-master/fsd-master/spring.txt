@@ -1,0 +1,13 @@
+spring guides
+
+http://krams915.blogspot.com/p/tutorials.html
+
+http://viralpatel.net/blogs/tutorial-spring-3-mvc-introduction-spring-mvc-framework/
+
+https://dzone.com/articles/spring-mvc-example-for-user-registration-and-login-1
+
+https://medium.com/omarelgabrys-blog/spring-a-head-start-building-a-web-application-part-7-785558468159
+
+http://en.tekstenuitleg.net/articles/software/spring-3-mvc-project-from-scratch
+
+https://www.codejava.net/frameworks/spring/creating-a-spring-mvc-project-using-maven-and-eclipse-in-one-minute
